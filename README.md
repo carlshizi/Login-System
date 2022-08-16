@@ -1,6 +1,6 @@
 Hashmap source: https://github.com/tidwall/hashmap.c
+
 Time format used: UTC, which is 4 hours ahead of Eastern time.
-We included a Makefile for the project.
 
 Note:
 UserID is entered without the @stevens.edu.
